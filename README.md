@@ -1,1 +1,1 @@
-# Parking-Lot
+# Parking Lot Class Diagram
